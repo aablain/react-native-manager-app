@@ -17,7 +17,7 @@ export default class App extends React.Component {
 
   componentDidMount() {
     const config = {
-      // * values here
+      // * Add config
     };
 
     firebase.initializeApp(config);
